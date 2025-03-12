@@ -1,0 +1,10 @@
+C:\Users\yhya\source\repos\HomeWork\bin\Debug\HomeWork.exe.config
+C:\Users\yhya\source\repos\HomeWork\bin\Debug\HomeWork.exe
+C:\Users\yhya\source\repos\HomeWork\bin\Debug\HomeWork.pdb
+C:\Users\yhya\source\repos\HomeWork\obj\Debug\HomeWork.csproj.AssemblyReference.cache
+C:\Users\yhya\source\repos\HomeWork\obj\Debug\HomeWork.Properties.Resources.resources
+C:\Users\yhya\source\repos\HomeWork\obj\Debug\HomeWork.csproj.GenerateResource.cache
+C:\Users\yhya\source\repos\HomeWork\obj\Debug\HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\yhya\source\repos\HomeWork\obj\Debug\HomeWork.exe
+C:\Users\yhya\source\repos\HomeWork\obj\Debug\HomeWork.pdb
+C:\Users\yhya\source\repos\HomeWork\obj\Debug\HomeWork.HomeWork.resources
